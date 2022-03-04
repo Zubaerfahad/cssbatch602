@@ -1,8 +1,22 @@
 .first{
-    color: brown;
+    color:whitesmoke;
     background-color: black;
 }
 #name{
     color: aqua;
-    background-color: blueviolet;
+    background-color: pink;
+}
+.ctg{
+    color: rgb(255, 0, 21);
+    background-color: blue;
+    height: 300px;
+    width: 300px;
+    border: solid black;
+    
+}
+.spe{ 
+    color: white;
+}
+#h{ 
+    color: yellow;
 }
